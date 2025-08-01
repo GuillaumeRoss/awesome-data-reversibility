@@ -1,6 +1,7 @@
 # Awesome Data Reversibility [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-CC0_1.0-lightgrey)
 
-> A meticulous, enterprise-grade, tongue-in-cheek catalog of everything you *wish* existed for reversing data flows, mutations, and time itself.  
+> A meticulous, enterprise-grade, catalog of everything you *
+need*  for reversing data flows, mutations, and time itself.  
 > **Data reversibility is hard**—even with **500+ discrete tools** the problem remains stubbornly non-trivial.
 
 ---
