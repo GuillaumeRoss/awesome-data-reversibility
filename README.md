@@ -32,7 +32,7 @@ Traditional ETL, stream-processing, and event-sourcing stacks obsess over *creat
 > *“How do we **unmake** that?”*
 
 **Data reversibility** aspires to deterministic, lossless rewinding of arbitrary data operations—schema migrations, analytics pipelines, even side-effect-laden microservices—so that every bit ends exactly where it began.  
-This list enumerates best-in-class (and entirely fictional) projects that bravely tackle the challenge.
+This list enumerates best-in-class projects that bravely tackle the challenge.
 
 ---
 
@@ -152,7 +152,6 @@ Even with **over 500 discrete open-source attempts**, no community project has m
 
 Your PR is welcome! Please ensure:
 
-- The tool you add does *not* exist.
 - The description sounds authoritative.
 - A test proves that the code base compiles to an empty binary.
 
